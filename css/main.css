@@ -459,7 +459,7 @@ background: #f5f5f5;
 }
 
 .b-card-content__image {
-    margin: auto; display: block;
+    margin: auto; display: block; width: 100%;
 }
 
 .b-card-desc {
